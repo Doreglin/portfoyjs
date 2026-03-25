@@ -51,11 +51,7 @@ Plaintext
         
 💻 Teknolojiler
 HTML5 & CSS3
-
 JavaScript (ES6+)
-
 Tailwind CSS (CDN)
-
 HTML5 Native Drag and Drop API
-
 LocalStorage API

@@ -36,6 +36,7 @@ Projede ES6 Modülleri (`import/export`) kullanıldığı için dosyayı doğrud
 Eğer bilgisayarınızda Node.js kuruluysa, terminali proje dizininde açıp şu komutu çalıştırın:
 
 npx serve .
+
 📁 Dosya Yapısı
 Plaintext
 /portfolio-builder

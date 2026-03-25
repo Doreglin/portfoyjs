@@ -48,6 +48,7 @@ Plaintext
         ├── AboutSection.js # Hakkımda alanı
         ├── ProjectsSection.js # Proje kartları alanı
         └── ContactSection.js  # İletişim formu
+        
 💻 Teknolojiler
 HTML5 & CSS3
 
